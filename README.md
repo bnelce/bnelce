@@ -1,5 +1,5 @@
 
-![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
+![](https://komarev.com/ghpvc/?username=bnelce&color=006bed)
 
 <h3> :man: &nbsp;Sobre mim </h3>
 
@@ -12,14 +12,13 @@
 
 **Aplicações e Dados**
 
-  ![TypeScript](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Node](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=00599C)
+  ![Node](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=nodedotjs)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
 
 **Utilidades**
 
@@ -28,25 +27,26 @@
 **DevOps**
 
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=github)
+  ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
+  ![GitHub](https://img.shields.io/badge/-GiHub-333333?style=flat&logo=github)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 **Ferramentas de Desenvolvimento**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Taiga](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+  ![Taiga](https://img.shields.io/badge/-Taiga-333333?style=flat&logo=taiga&logoColor=007ACC)
 
 <br/>
 
 <a href="https://github.com/bnelce">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanessaSwerts&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bnelce&theme=dracula&show_icons=true" />
 </a>
 
 <br/>
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Abner Oliveira](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![Linkedin: Abner Oliveira](https://img.shields.io/badge/-abner-oliveira-27aa3327-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abner-oliveira-27aa3327/)](https://www.linkedin.com/in/abner-oliveira-27aa3327/)
+[![Gmail Badge](https://img.shields.io/badge/-abner.oliveira.ce@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abner.oliveira.ce@gmail.com)](mailto:abner.oliveira.ce@gmail.com)
+[![GitHub Abner Oliveira]( https://img.shields.io/github/followers/bnelce?label=follow&style=social)](https://github.com/bnelce)
