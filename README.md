@@ -47,6 +47,6 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Abner Oliveira](https://img.shields.io/badge/-abner-oliveira-27aa3327-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abner-oliveira-27aa3327/)](https://www.linkedin.com/in/abner-oliveira-27aa3327/)
+# [![Linkedin: Abner Oliveira](https://img.shields.io/badge/-abner-oliveira-27aa3327-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
 [![Gmail Badge](https://img.shields.io/badge/-abner.oliveira.ce@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abner.oliveira.ce@gmail.com)](mailto:abner.oliveira.ce@gmail.com)
 [![GitHub Abner Oliveira]( https://img.shields.io/github/followers/bnelce?label=follow&style=social)](https://github.com/bnelce)
