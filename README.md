@@ -20,9 +20,9 @@
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
 
-**Utilidades**
+**Frameworks**
 
-  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+  
 
 **DevOps**
 
@@ -34,6 +34,7 @@
 **Ferramentas de Desenvolvimento**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
   ![Taiga](https://img.shields.io/badge/-Taiga-333333?style=flat&logo=taiga&logoColor=007ACC)
 
