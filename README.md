@@ -1,7 +1,7 @@
 <h1 align="center">Abner Oliveira</h1>
 <p align="center">
   Tech Lead no CBMCE · Bombeiro militar · Mestre em Ciência da Computação (IFCE)<br/>
-  Fortaleza/CE · <a href="https://abneroliveira.eti.br">abneroliveira.eti.br</a>
+  Fortaleza/CE · <a href="https://a2lo.dev">a2lo.dev</a>
 </p>
 
 ---
@@ -42,5 +42,5 @@ Lidero a **modernização dos sistemas legados do Corpo de Bombeiros Militar do 
 ### Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abner-oliveira-27aa3327/)
-[![Site](https://img.shields.io/badge/abneroliveira.eti.br-333333?style=flat&logo=googlechrome&logoColor=white)](https://abneroliveira.eti.br)
+[![Site](https://img.shields.io/badge/a2lo.dev-333333?style=flat&logo=googlechrome&logoColor=white)](https://a2lo.dev)
 [![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:abner.oliveira.ce@gmail.com)
