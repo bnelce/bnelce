@@ -1,6 +1,6 @@
 <h1 align="center">Abner Oliveira</h1>
 <p align="center">
-  Engenheiro de software · Bombeiro militar · Mestre em Ciência da Computação (IFCE)<br/>
+  Tech Lead no CBMCE · Bombeiro militar · Mestre em Ciência da Computação (IFCE)<br/>
   Fortaleza/CE · <a href="https://abneroliveira.eti.br">abneroliveira.eti.br</a>
 </p>
 
